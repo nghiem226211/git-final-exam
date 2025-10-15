@@ -1,0 +1,18 @@
+Giới thiệu cá nhân:
+Tôi tên là Nguyễn Trọng Nghiêm  
+Tôi hiện đang là sinh viên tại trường dnc.  
+Tôi yêu thích việc học ngoại ngữ và lập trình.  
+Tôi mong muốn trở thành một lập trình viên kiếm được nhiều tiền.  
+Tôi luôn cố gắng học hỏi và phát triển bản thân mỗi ngày.
+
+Sở thích:
+- Nghe nhạc  
+- học võ 
+- Lập trình
+- học ngoại ngữ
+
+Kỹ năng:
+- Sử dụng Git và GitHub cơ bản  
+- Lập trình Python cơ bản  
+- biết tiếng anh cơ bản
+
